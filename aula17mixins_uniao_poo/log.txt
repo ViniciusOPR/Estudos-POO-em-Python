@@ -1,0 +1,4 @@
+Error: erro indefinido (LogFileMixin)
+Success: acesso permitido (LogFileMixin)
+Success: Galaxy S está ligado (Smartphone)
+Error: iPhone está desligado (Smartphone)
